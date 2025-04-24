@@ -1,0 +1,36 @@
+body { 
+  text-align: center;
+  margin: 7em;
+  background-color: rgb(211, 211, 211);
+}
+.mk5-img{
+  margin: auto;
+  opacity: 1;
+  position: left;
+  width: 30em;
+    
+}
+
+body h1{
+  font-family: sans-serif;
+  
+}
+
+.description{
+  font-family: "Times New Roman";
+}
+
+p{
+  margin: 90px;
+  font-family: sans-serif;
+  font-size: 1.3em;
+}
+
+.supras{
+  width: 30em;
+ 
+}
+
+.interior{
+  width: 30em;
+}
